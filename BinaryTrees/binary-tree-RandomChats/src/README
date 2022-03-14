@@ -1,0 +1,48 @@
+# BinaryTree README
+
+* Author: Corbin McLaughlin
+* Class: CS221
+* Semester: Fall 2021
+
+## Overview
+
+This program initializes a Binary Tree class and methods, and demonstrates
+the methods used in the BinaryTreeDriver.java class
+
+## Compiling and Using
+
+Make sure you save the file into the correct file path, then use dir
+and cd to find the file path and file location. Make sure the file
+is compiled with javac, then after the java file is compiled,
+just execute it to get the file to load properly. You can also run this
+program through the Eclipse IDE.
+
+## Discussion
+
+If you remember how I said that I overcomplicated DoubleLinkedList, boy
+did I do the exact same thing here :D (I may need to fix that oops). Yeah 
+I for a long portion of this project just overcomplicated the code I was 
+making and made things much harder for myself than they really should have 
+been. I was incredibly stubborn with getting my code to work a certain way,
+only to throw myself at the issue over and over again when it was the wrong
+approach from the very beginning. Other than me making this project harder 
+for myself, there's not much really to speak on for this project other than
+the remove method was a very weird process to get fully working, but hey, I 
+managed to get it working with a frick ton of help.
+
+## Testing
+
+I used the debugger to test this project, as well as checking for any
+syntax errors or general mistakes I made through this debugger tool, as
+well as going through the methods I was creating to make sure their functionality
+was working as planned.
+
+## Extra Credit
+
+None
+
+## Sources used
+
+Audrey Norris 
+Duane Erickson
+Mason Swanson

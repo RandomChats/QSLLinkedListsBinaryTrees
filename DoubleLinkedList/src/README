@@ -1,0 +1,49 @@
+# DoubleLinkedList README
+
+* Author: Corbin McLaughlin
+* Class: CS221
+* Semester: Fall 2021
+
+## Overview
+
+This program preforms various tests on different arrays using built
+in methods created by both me and those that were provided by the program. 
+
+## Compiling and Using
+
+Make sure you save the file into the correct file path, then use dir
+and cd to find the file path and file location. Make sure the file
+is compiled with javac, then after the java file is compiled,
+just execute it to get the file to load properly. You can also run this
+program through the Eclipse IDE.
+
+## Discussion
+
+Double Linked List... In the beginning, I felt very rushed because I was
+already behind due to Single Linked List, so DLL felt very daunting for me. 
+After importing all of my methods from SLL, I went to work tweaking them to fit
+DLL, and went on to work with the ListIterator. Obviously I didn't do any tests
+like a very smart coder, so I didn't realize how broken a lot of my main methods
+were. After working on my ListIterator and getting it to a "functional" state, I
+ran my tests, and saw many of my main methods were broken. After spending a while
+fixing my main methods, I went to work on my Iterator methods so I could get my 
+concurrency to work properly. After that, I added more tests, fixed the issues
+that came up when I made them, and got my test number up to the 2000 that we needed
+for the project.
+
+## Testing
+
+I used the debugger to test this project, as well as checking for any
+syntax errors or general mistakes I made through this debugger tool, as
+well as going through the methods I was creating to make sure their functionality
+was working as planned.
+
+## Extra Credit
+
+None
+
+## Sources used
+
+BSU 221 resources
+Audrey Norris 
+Duane Erickson
